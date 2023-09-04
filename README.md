@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abdalftah07
+- 👀 I’m interested in Computer ,Programming and Electronics
+- 🌱 I’m currently learning Electrical and Electronics Engineering
+- 💞️ I’m looking to collaborate on embedded systems
